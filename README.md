@@ -1,8 +1,8 @@
 ## Hello there 🙋‍♂️
 
 I'm Michael, a computer science student at University of Technology Graz.  
-Currently on my last steps to finish my bachelors degree.
-I am part of the [Catrobat](https://github.com/Catrobat) Team! 
+Currently on my last steps to finish my bachelors degree.  
+I am part of the [Catrobat](https://github.com/Catrobat) [Catty](https://github.com/Catrobat/Catty) Team! 
 
 # I am  experienced in: 
 
